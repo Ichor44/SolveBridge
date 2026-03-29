@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Technological background with digital connections",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=2072",
+      "imageHint": "technology digital"
+    },
+    {
+      "id": "engineering",
+      "description": "Engineering challenge visual",
+      "imageUrl": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&q=80&w=600",
+      "imageHint": "engineering robotics"
+    },
+    {
+      "id": "research",
+      "description": "Scientific research visual",
+      "imageUrl": "https://images.unsplash.com/photo-1532187863486-abf9d3976618?auto=format&fit=crop&q=80&w=600",
+      "imageHint": "science research"
+    },
+    {
+      "id": "business",
+      "description": "Business optimization visual",
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=600",
+      "imageHint": "business data"
+    }
+  ]
+}
